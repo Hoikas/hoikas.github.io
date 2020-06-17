@@ -1,0 +1,3 @@
+[submodule "agbg"]
+	path = agbg
+	url = https://github.com/Hoikas/agbg.git
